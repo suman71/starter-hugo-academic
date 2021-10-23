@@ -31,17 +31,21 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: MSc. in Geology and Mining
+      institution: University of Rajshahi
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc. in Geology and Mining
+      institution: University of Rajshahi
+      year: 2011
+    - course: HSC, Science
+      institution: Rangpur Govt. College, Rangpur
+      year: 2007
+    - course: SSC, Science
+      institution: Bir Uttam Shaheed Samad High School, Rangpur
+      year: 2005
+email: suman.rubd@yahoo.com
 superuser: true
+user_groups: []
 highlight_name: true
 ---
 I am a dedicated and self-motivated monitoring & evaluation practitioner in the humanitarian and development sector. Experienced in climate change impact/vulnerability/risk assessment; adaptation and resilience research in different sectors including water, agriculture, sanitation, and livelihoods in South Asia. By training, I am a hydrogeologist while I have advanced training in governance, M&E, water resources, and environmental management. I am actively pursuing a challenging key position as a Monitoring and Evaluation Lead in development sector to take my career to the next level and expand my experience. Consistently developing the M&E framework and managing MEAL (Monitoring, Evaluation Accountability & Learning), RBM (Result Based Management) system and ToC (Theory of Change), I utilise an accommodating, helpful and result focused approach with the ability to exceed service standards and achieve positive outcomes aligned with strategic direction of humanitarian program. My career interest is to contribute to sustainable global development especially in Bangladesh and other South Asian countries.
