@@ -9,12 +9,11 @@ draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
-  - Academic
+  - DASCOH
 categories:
-  - Demo
-  - 教程
+  - Training
 projects: []
 image:
   caption: "Image credit:
