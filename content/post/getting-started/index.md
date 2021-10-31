@@ -1,105 +1,69 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2020-12-13T00:00:00Z"
-
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
-# Is this an unpublished draft?
+title: Conflict Sensitive Programme Mananegement (CSPM)
+subtitle: ""
+date: 2021-10-31T15:30:30.761Z
+summary: CSPM module is being updated continuously.
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors:
+  - admin
+lastmod: 2020-12-13T00:00:00Z
+tags:
+  - Academic
+categories:
+  - Demo
+  - 教程
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: "Image credit:
+    [**DASCOH**](https://photos.google.com/photo/AF1QipMmGJkgHC0IER-KmUyZSv0GdO\
+    eASVndzbIWTTPx)"
   focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-- admin
-- 吳恩達
-
-tags:
-- Academic
-- 开源
-
-categories:
-- Demo
-- 教程
 ---
 
-## Overview
+CSPM is a relationship between two or more parties who have, or think they have, incompatible goals, values, interests or claims to status, power or scarce resources. 
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+### **Integrating conflict sensitivity and prevention of violence into SDC Programms - A handbook for practitioners**
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+- [Introduction to the Handbook I (PDF, Number of pages 2, 453.6 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159271-cspm-int1_EN.pdf)
+- [Introduction to the Handbook II (PDF, Number of pages 393, 459.4 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159282-cspm-int2_EN.pdf)
+- [A quick Guide (PDF, Number of pages 8, 486.7 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159283-cspm-quick-guide_EN.pdf)
+- [SDC Peacebuilding Guidelines (PDF, 566.6 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159291-peacebuilding-guidelines_EN.pdf)
+- [Conflict/Sensitive Programme Management CSPM (PDF, Number of pages 24, 459.7 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159292-cspm_EN.pdf)
 
-## Get Started
+### **Tip Sheets**
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+- [Table of contents (PDF, Page 1, 431.3 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159294-tip-sheet-toc_EN.pdf)
 
-## Crowd-funded open-source software
+**Methodic Tip Sheets**
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+- [Conflict Analysis Tool (PDF, Number of pages 39, 335.1 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92755-tip-sheet-cat_EN.pdf)
+- [Peace and Conflict Impact Assesment (PCIA) (PDF, Number of pages 4, 45.2 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92756-tip-sheet-pcia_EN.pdf)
+- [Do No Harm (PDF, Number of pages 66, 106.1 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92757-tip-sheet-do-no-harm_EN.pdf)
+- [Checklist: Conflict Sensitivity and Prevention / provided by Glückskette (Swiss Solidarity) (PDF, Number of pages 5, 94.7 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92758-checklist-konfliktsensibilitaet-praevention_EN.pdf)
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
+**Thematic Tip Sheets**
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+- [Gender and Peacebuilding (PDF, 207.2 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92759-gender-peacebuilding_EN.pdf)
+- [Sport as a Tool for Peacebuilding (PDF, Number of pages 8, 127.9 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92813-sport-mittel-friedensentwicklung_EN.pdf)
+- [Peace-Building Overview / Issues Brief provided by OECD (PDF, Number of pages 6, 165.0 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92802-peace-building-overview_EN.pdf)
+- [Introduction to Security System Reform (SSR) / Issues Brief provided by OECD (PDF, Number of pages 10, 199.6 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92803-introduction-security-system-reform_EN.pdf)
+- [Pastoralism (PDF, 494.9 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159309-pastoralism_EN.pdf)
+- [Reconciliation / Issues Brief provided by OECD (PDF, Number of pages 8, 174.7 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92763-reconciliation_EN.pdf)
+- [Small Arms and Light Weapons (SALW) / Issues Brief provided by OECD (PDF, Number of pages 8, 161.4 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92805-small-arms-light-weapons_EN.pdf)
+- [Overview of the Links between the Environment, Conflict and Peace / Issues Brief provided by OECD (PDF, 247.6 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92806-overview-environment-conflict-peace_EN.pdf)
+- [Land and Violent Conflict / Issues Brief provided by OECD (PDF, 174.1 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92766-land-violent-conflict_EN.pdf)
+- [Water and Violent Conflict / Issues Brief provided by OECD (PDF, Number of pages 10, 169.5 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92767-water-violent-conflict_EN.pdf)
+- [Forests and Violent Conflict / Issues Brief provided by OECD (PDF, 163.1 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92807-forests-violent-conflict_EN.pdf)
+- [Valuable Minerals and Violent Conflict / Issues Brief provided by OECD (PDF, Number of pages 10, 178.8 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/92769-valuable-minerals-violent-conflict_EN.pdf)
 
-## Ecosystem
+### **Other Documents and Links**
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+- [Gender, Conflict Transformation &amp; the Psychosocial Approach (PDF, 1.7 MB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/gender/91135-arbeitshilfe-gender-konflikttrans-psychosoz-ansatz_EN.pdf)
+- [Ressource Pack on International Alert](http://www.international-alert.org/what-we-work)
 
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+### **DASCOH CSPM for IWRM**
+- [Workshop Module 1](https://drive.google.com/open?id=0BwPFONRwU7GXbXJWaXYwTk1qUWs)
+- [Workshop Module 3](https://drive.google.com/open?id=1yoL7C5Y7yfSEHqBRws-vNYC37JFVsi8A)
