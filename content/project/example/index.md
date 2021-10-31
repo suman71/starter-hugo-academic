@@ -1,12 +1,13 @@
 ---
 slides: example
 url_pdf: ""
+title: Web Mapping for IWRM
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2021-10-31T16:28:27.065Z
 external_link: ""
 url_slides: ""
-title: Example Project
+subtitle: A tool for smart water management as Water Resource Management Tool.
 tags:
   - Deep Learning
 links:
