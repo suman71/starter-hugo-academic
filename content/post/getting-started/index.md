@@ -2,7 +2,9 @@
 title: Conflict Sensitive Programme Mananegement (CSPM)
 subtitle: ""
 date: 2021-10-31T15:30:30.761Z
-summary: CSPM module is being updated continuously.
+summary: CSPM is a relationship between two or more parties who have, or think
+  they have, incompatible goals, values, interests or claims to status, power or
+  scarce resources.
 draft: false
 featured: false
 authors:
@@ -21,6 +23,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: linkedin.jpg
 ---
 
 CSPM is a relationship between two or more parties who have, or think they have, incompatible goals, values, interests or claims to status, power or scarce resources. 
