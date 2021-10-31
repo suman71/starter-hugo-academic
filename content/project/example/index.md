@@ -1,41 +1,51 @@
 ---
-title: Example Project
+slides: example
+url_pdf: ""
 summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
+url_video: ""
+date: 2016-04-27T00:00:00Z
 external_link: ""
-
+url_slides: ""
+title: Example Project
+tags:
+  - Deep Learning
+links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/oporazito
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+The aim of the IWRM project is to improve the well-being of people by means of promoting 
+coordinated, equitable and sustainable development and management of water, land and related 
+resources. In Bangladesh the enabling environment for inducing the paradigm shift from sectoral 
+management of water resources to holistic and integrated management of water resources has been 
+created by the enactment of the Bangladesh Water Act (BWA), 2013. The IWRM project has two 
+complimentary sub-components; the national component and the sub-national component. The former 
+is being implemented by a govt. department under the Ministry of Water Resources, Water Resources 
+Planning Organisation (WARPO), and the sub-national component is being implemented by Swiss 
+Red Cross and DASCOH. The national component’s focus is to further develop the regulatory 
+framework and operationalize institutional mechanisms foreseen in the BWA, 2013. The sub-national 
+component, on the other hand, intends to achieve the following:
+* Bring about changes in role, practice and attitudes of water related asset owners and users 
+through design and subsequent application of an incentive based regulatory system. This will 
+include reward/recognition/rebate for improved water management practices adopted by 
+HHs/community and Local Governance Institutions (LGIs)
+* Enable different actors to understand and practice the principle of subsidiarity related to 
+IWRM. The will mean that stronger regulatory role of local government institutions (Union 
+Parishads and Pourashavas) who will be supported to develop, enact, and implement their 
+own by-laws on water management issues
+* Ensure citizen and LGI adherence to reducing over-abstraction and water pollution, reusing 
+water (conjunctive use); recycling (waste) water; and restoring water safety (also referred to as 
+4 Rs).
+* Accord primacy to asset owners’ technology choice with regard to water related assets 
+respective the given regulatory framework. 
+* Support the strengthening of sub-national institutional mechanisms (LGIs/pourashavas, 
+Upazila, line departments, etc.) so that there is greater coordination between them with y view 
+to improve water governance and water management practices
+* Support citizens’ engagement in IWRM governance and IWRM related models and practices 
+
