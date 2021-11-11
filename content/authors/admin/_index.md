@@ -1,6 +1,6 @@
 ---
 title: MD SUMAN MIAH
-role: Monitoring and Evaluation (M&E) professional
+role: Hydrogeologist and Evaluation Practitioner
 avatar_filename: suman.jpg
 bio: As a M&E-practitioner, I focus on climate change impact/vulnerability/risk
   assessment, adaptation and resilience research in water management,
