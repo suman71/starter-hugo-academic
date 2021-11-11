@@ -6,9 +6,9 @@ bio: As a M&E-practitioner, I focus on climate change impact/vulnerability/risk
   assessment, adaptation and resilience research in water management,
   agriculture and sanitation.
 interests:
+  - Hydrogeology
   - Monitoring
   - Evaluation & Learning (MEL)
-  - Hydrogeology
   - Data Science
 social:
   - icon: envelope
@@ -48,6 +48,6 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a dedicated and self-motivated monitoring & evaluation practitioner in the humanitarian and development sector. Experienced in climate change impact/vulnerability/risk assessment; adaptation and resilience research in different sectors including water, agriculture, sanitation, and livelihoods in South Asia. By training, I am a hydrogeologist while I have advanced training in governance, M&E, water resources, and environmental management. I am actively pursuing a challenging key position as a Monitoring and Evaluation Lead in development sector to take my career to the next level and expand my experience. Consistently developing the M&E framework and managing MEAL (Monitoring, Evaluation Accountability & Learning), RBM (Result Based Management) system and ToC (Theory of Change), I utilise an accommodating, helpful and result focused approach with the ability to exceed service standards and achieve positive outcomes aligned with strategic direction of humanitarian program. My career interest is to contribute to sustainable global development especially in Bangladesh and other South Asian countries.
+I am a dedicated and self-motivated Hydrogeologist and evaluation practitioner in the humanitarian and development sector. Experienced in climate change impact/vulnerability/risk assessment; adaptation and resilience research in water, sanitation, and climate change in South Asia. By training, I am a hydrogeologist while I have advanced training in governance, M&E, water resources, and environmental management. I am actively pursuing a challenging key position as a Hydrology Lead in development sector to take my career to the next level and expand my experience. My career interest is to contribute to sustainable global development especially in Bangladesh and other South Asian countries. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
