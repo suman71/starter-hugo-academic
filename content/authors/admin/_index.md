@@ -29,6 +29,9 @@ social:
 organizations: []
 education:
   courses:
+    - course: Multilevel Water Governance
+      institution: The Hague Academy for Local Governance, The Hague, Netherlands
+      year: 2019
     - course: MSc. in Geology and Mining
       institution: University of Rajshahi
       year: 2012
@@ -41,9 +44,6 @@ education:
     - course: SSC, Science
       institution: Bir Uttam Shaheed Samad High School, Rangpur
       year: 2005
-    - course: Multilevel Water Governance
-      institution: The Hague Academy for Local Governance, The Hague, Netherlands
-      year: 2019
 email: suman.rubd@yahoo.com
 superuser: true
 user_groups: []
