@@ -26,9 +26,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sumangeo/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: MSc. in Geology and Mining
@@ -43,6 +41,9 @@ education:
     - course: SSC, Science
       institution: Bir Uttam Shaheed Samad High School, Rangpur
       year: 2005
+    - course: Multilevel Water Governance
+      institution: The Hague Academy for Local Governance, The Hague, Netherlands
+      year: 2019
 email: suman.rubd@yahoo.com
 superuser: true
 user_groups: []
