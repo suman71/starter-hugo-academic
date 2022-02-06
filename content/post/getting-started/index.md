@@ -7,8 +7,7 @@ summary: CSPM is a relationship between two or more parties who have, or think
   scarce resources.
 draft: false
 featured: false
-authors:
-  - admin
+authors: []
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - DASCOH
