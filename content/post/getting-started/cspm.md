@@ -1,5 +1,5 @@
 ---
-title: Conflict Sensitive Programme Mananegement (CSPM)
+title: Conflict Sensitive Programme Mananegement(CSPM)
 subtitle: ""
 date: 2021-10-31T15:30:30.761Z
 summary: CSPM is a relationship between two or more parties who have, or think
