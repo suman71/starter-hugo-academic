@@ -5,7 +5,7 @@ date: 2022-02-06T14:09:40.370Z
 summary: CSPM is a relationship between two or more parties who have, or think
   they have, incompatible goals, values, interests or claims to status, power or
   scarce resources.
-draft: false
+draft: true
 featured: false
 authors: []
 lastmod: 2020-12-13T00:00:00.000Z
