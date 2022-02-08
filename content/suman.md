@@ -16,6 +16,6 @@ header:
 
 ## [Suman Certificate](https://drive.google.com/drive/folders/114cVKNYZ5IHZXdW2ji8qw-pj4A11VTTX?usp=sharing)
 
-[Tithy Certificate](https://drive.google.com/drive/folders/1-WAOuAwNwx1H8c3z_sOcZ3S4BstUAKxU?usp=sharing)
+## [Tithy Certificate](https://drive.google.com/drive/folders/1-WAOuAwNwx1H8c3z_sOcZ3S4BstUAKxU?usp=sharing)
 
-[Conflict](https://drive.google.com/drive/folders/1-WAOuAwNwx1H8c3z_sOcZ3S4BstUAKxU?usp=sharing)
+
