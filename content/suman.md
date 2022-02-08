@@ -18,4 +18,4 @@ header:
 
 [Tithy Certificate] (https://drive.google.com/drive/folders/1-WAOuAwNwx1H8c3z_sOcZ3S4BstUAKxU?usp=sharing)
 
-[Conflict/Sensitive Programme Management CSPM (PDF, Number of pages 24, 459.7 kB, English)](https://www.eda.admin.ch/content/dam/deza/en/documents/themen/fragile-kontexte/159292-cspm_EN.pdf)
+[Conflict)](https://drive.google.com/drive/folders/1-WAOuAwNwx1H8c3z_sOcZ3S4BstUAKxU?usp=sharing)
