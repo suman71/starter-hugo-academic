@@ -18,4 +18,11 @@ header:
 
 ## [Tithy Certificate](https://drive.google.com/drive/folders/1-WAOuAwNwx1H8c3z_sOcZ3S4BstUAKxU?usp=sharing)
 
+Quick Info
+----------
 
+| Syntax      | Tithy | Suman   |
+| :---        |    :----:   |          ---: |
+| Father's Name      | MD. EARSHAD HOSSAIN
+মোঃ এরশাদ হোসেন       | Here's this   |
+| Mothers' Name   | Text        | And more      |
