@@ -12,4 +12,8 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+## [Application and Admit Card] (https://drive.google.com/drive/folders/114LPZlg5UFFBeTrqwjq1Evzc6FMIQmIk?usp=sharing)
+
+## [Suman Certificate] (https://drive.google.com/drive/folders/114cVKNYZ5IHZXdW2ji8qw-pj4A11VTTX?usp=sharing)
+
+## [Tithy Certificate] (https://drive.google.com/drive/folders/1-WAOuAwNwx1H8c3z_sOcZ3S4BstUAKxU?usp=sharing)
