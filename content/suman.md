@@ -43,9 +43,9 @@ Quick Info
 
 ISRAT ZAHAN
 -----------
-| Exam Title  | Concentration / Major | Institute, Board/Faculty                                     | Result | Exam/ Pass. Year | Result Published | Roll No, Registration No                               |
-| ----------- | --------------------- | ------------------------------------------------------------ | ------ | ---------------- | ---------------- | ------------------------------------------------------ |
-| S.S.C       | Science               | Rangpur Govt. Girls' High School, Rangpur<br>Board: Rajshahi | 5      | 2008             | 6-26-2008        | Roll No: 125842<br>Reg. No: 717046<br>Session: 2006-07 |
-| H.S.C       | Science               | Rangpur Government College, Rangpur<br>Board: Dinajpur       | 4.5    | 2010             | 15-07-10         | Roll No: 115823<br>Reg. No: 802261<br>Session: 2008-09 |
-| BSc. Honors | Geology and Mining    | University of Rajshahi<br>Faculty: Life and Earth Science    | 3.43   | 2015             | 15-03-17         | Roll No: 12236848<br>Reg. No: 3531<br>Session: 2011-12 |
-| M.S         | Geology and Mining    | University of Rajshahi<br>Faculty: Life and Earth Science    | 3.17   | 2016             | 14-05-18         | Roll No: 12236848<br>Reg. No: 3531<br>Session: 2011-12 |
+| Exam Title  | Concentration / Major | Institute, Board/Faculty                                      | Result | Exam/ Pass. Year | Result Published | Roll No, Registration No                                 |
+|-------------|-----------------------|---------------------------------------------------------------|--------|------------------|------------------|----------------------------------------------------------|
+| S.S.C       | Science               | Rangpur Govt. Girls' High School, Rangpur<br/>Board: Rajshahi | 5      | 2008             | 26-06-2008       | Roll No: 125842<br/>Reg. No: 717046<br/>Session: 2006-07 |
+| H.S.C       | Science               | Rangpur Government College, Rangpur<br/>Board: Dinajpur       | 4.5    | 2010             | 15-07-2010         | Roll No: 115823<br/>Reg. No: 802261<br/>Session: 2008-09 |
+| BSc. Honors | Geology and Mining    | University of Rajshahi<br/>Faculty: Life and Earth Science    | 3.43   | 2015             | 15-03-2017         | Roll No: 12236848<br/>Reg. No: 3531<br/>Session: 2011-12 |
+| M.S         | Geology and Mining    | University of Rajshahi<br/>Faculty: Life and Earth Science    | 3.17   | 2016             | 14-05-2018         | Roll No: 12236848<br/>Reg. No: 3531<br/>Session: 2011-12 |
