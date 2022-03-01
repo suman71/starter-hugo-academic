@@ -40,3 +40,40 @@ Quick Info
 |     Present Address          |     Holding No: 677/4, Jahabox Lane, <br> Ward No: 35, Gabtola, Moghbazar, <br> Shantinagr TSO, Ramna   Model,<br> Dhaka-1217     <br> বাড়িঃ ৬৭৭/৪, জাহাবক্স লেন,  <br> গাবতলা,      মগবাজার,<br> রমনা, ঢাকা-১২১৭।                      |     Holding No: 677/4, Jahabox Lane, <br> Ward No: 35, Gabtola, Moghbazar,<br> Shantinagr TSO,      Ramna Model, <br> Dhaka-1217    <br> বাড়িঃ ৬৭৭/৪, জাহাবক্স লেন,   <br> গাবতলা, মগবাজার, <br> রমনা, ঢাকা-১২১৭।                                                 |
 |     Permanent Address        |     C/O: Mahafuza Begum <br> Village: Damodarpur, <br> Ward No: 13,  <br>   Post: Borobari, Rangpur Sadar,  <br>   Rangpur-5400   <br>  প্রযত্নেঃ মাহফুজা বেগম  <br>    গ্রামঃ দামোদারপুর <br> ডাকঃ বড়বাড়ি <br> রংপুর সদর, রংপুর-৫৪০০।    |     C/O: Md. Lutfor Rahman  <br>   House: 1524, Ward: 10 <br> Vill- Bakhtiarpur, P.O- Keranirhat <br> P.S- Rangpur Sadar, District- Rangpur, Bangladesh    <br> প্রযত্নেঃ মোঃ লুৎফর রহমান  <br>   গ্রামঃ বখতিয়ারপুর, ডাকঃ কেরানীরহাট <br> রংপুর সদর, রংপুর-৫৪০০।    |
 |     BAN                      |     NA                                                                                                                                                                                                      |     DBBL: 135.103.65898  <br>   BDBL: 0560100002016  <br>   AGN: 0200016908464                                                                                                                                                                    |
+
+ISRAT ZAHAN
+-----------
+| **Exam Title** | **Concentration / Major** | **Institute,**
+
+**Board/Faculty**                          | **Result** | **Exam/ Pass. Year** | **Result Published** | **Roll No,**
+
+**Registration No**                  |
+| -------------- | ------------------------- | ---------------------------------------------------------- | ---------- | -------------------- | -------------------- | -------------------------------------------------- |
+| S.S.C          | Science                   | Rangpur Govt. Girls' High School, Rangpur
+
+Board: Rajshahi | 5.00       | 2008                 | 26/06/2008           | Roll No: 125842
+
+Reg. No: 717046
+
+Session: 2006-07 |
+| H.S.C          | Science                   | Rangpur Government College, Rangpur
+
+Board: Dinajpur       | 4.5        | 2010                 | 15/07/2010           | Roll No: 115823
+
+Reg. No: 802261
+
+Session: 2008-09 |
+| BSc. Honors    | Geology and Mining        | University of Rajshahi
+
+Faculty: Life and Earth Science    | 3.43       | 2015                 | 15/03/2017           | Roll No: 12236848
+
+Reg. No: 3531
+
+Session: 2011-12 |
+| M.S            | Geology and Mining        | University of Rajshahi
+
+Faculty: Life and Earth Science    | 3.17       | 2016                 | 14/05/2018           | Roll No: 12236848
+
+Reg. No: 3531
+
+Session: 2011-12 |
