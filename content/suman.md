@@ -51,10 +51,10 @@ ISRAT ZAHAN
 | M.S         | Geology and Mining    | University of Rajshahi<br/>Faculty: Life and Earth Science    | 3.17   | 2016             | 14-05-2018         | Roll No: 12236848<br/>Reg. No: 3531<br/>Session: 2011-12 |
 
 **Questioners Survey:** People Perception on Climate Change and Drought (July, 2013) <br>
-**Third Year Fieldwork Topic:** Geological field report on Jaintapur and Adjacent Areas, Sylhet, Bangladesh, 
-Undertook structural mapping, lithology and rock sequence interpretation; produced a comprehensive report. <br>
 **Second Year Fieldwork Topic:** Geological fields report on the Sitakund Anticline. (Bariyadhala to Barabkund) Sitakund, Chittagong, Bangladesh. 
 Performed fossil identification, structural mapping, lithology and stratigraphical identification and completed a structural map and produced a comprehensive report. <br>
+**Third Year Fieldwork Topic:** Geological field report on Jaintapur and Adjacent Areas, Sylhet, Bangladesh, 
+Undertook structural mapping, lithology and rock sequence interpretation; produced a comprehensive report. <br>
 **BSc Report:** I have carried out research project at B.Sc. (Hon’s) level under supervision of Associate Professor Mr. Abdur Rahman , Dept. of Geology & Mining, University of Rajshahi. Research Title: ‘‘GEOENVIRONMENTAL IMPACTS IN AND AROUND MITHAPUKUR UPAZILA, RANGPUR, BANGLADESH” <br>
 **MS Report:** <br>
 **Computer Skills:** MS Office Application, Email & Internet Browsing <br>
