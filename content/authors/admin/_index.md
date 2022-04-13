@@ -1,7 +1,7 @@
 ---
 title: MD SUMAN MIAH
 role: Hydrogeologist and Evaluation Practitioner
-avatar_filename: suman.jpg
+avatar_filename: s_formal_51x51_mm_pp.jpg
 bio: As a M&E-practitioner, I focus on climate change impact/vulnerability/risk
   assessment, adaptation and resilience research in water management,
   agriculture and sanitation.
