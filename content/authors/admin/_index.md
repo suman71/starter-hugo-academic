@@ -29,15 +29,28 @@ social:
 organizations: []
 education:
   courses:
+    - course: MSc. in Geology and Mining (Water & Environmental Management)
+      institution: University of Rajshahi
+      year: 2012
+    - course: BSc. in Geology and Mining (Remote Sensing and GIS, Mapping, Geophysics,
+        Hydrology & so on)
+      institution: University of Rajshahi
+      year: 2011
     - course: Multilevel Water Governance
       institution: The Hague Academy for Local Governance, The Hague, Netherlands
       year: 2019
-    - course: MSc. in Geology and Mining
-      institution: University of Rajshahi
-      year: 2012
-    - course: BSc. in Geology and Mining
-      institution: University of Rajshahi
-      year: 2011
+    - course: International Water Law and the Law of Transboundary Aquifers
+      institution: University of Geneva, Geneva Water Hub, DiploFoundation and
+        received the financial support of the Swiss Agency for Development and
+        Cooperation
+      year: 2019
+    - course: Faecal Sludge and Water Management in Rural Areas
+      institution: Centre for Science and Environment (CSE), New Delhi, India
+      year: 2021
+    - course: Multidisciplinary Application of Geographic Information System (GIS)
+      institution: Department of Urban and Regional Planning, Rajshahi University of
+        Engineering and Technology (RUET)
+      year: 2015
 email: suman.rubd@yahoo.com
 superuser: true
 user_groups: []
