@@ -38,12 +38,6 @@ education:
     - course: BSc. in Geology and Mining
       institution: University of Rajshahi
       year: 2011
-    - course: HSC, Science
-      institution: Rangpur Govt. College, Rangpur
-      year: 2007
-    - course: SSC, Science
-      institution: Bir Uttam Shaheed Samad High School, Rangpur
-      year: 2005
 email: suman.rubd@yahoo.com
 superuser: true
 user_groups: []
