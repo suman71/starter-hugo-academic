@@ -10,8 +10,12 @@ interests:
   - Monitoring & Evaluation
   - Data Science
   - GIS
-  - Data Visualization
+  - Remote Sensing
+  - Data Collection
   - Survey
+  - Data Analysis
+  - Data Visualization
+  - Mapping
 social:
   - icon: envelope
     icon_pack: fas
