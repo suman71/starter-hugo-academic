@@ -1,10 +1,10 @@
 ---
 title: MD SUMAN MIAH
-role: Hydrogeologist and Evaluation Practitioner
+role: Hydrogeologist, Data Analyst and Evaluation Practitioner
 avatar_filename: s_formal_51x51_mm_pp.jpg
-bio: As a M&E-practitioner, I focus on climate change impact/vulnerability/risk
-  assessment, adaptation and resilience research in water management,
-  agriculture and sanitation.
+bio: Experienced and skilled in data acquisition, processing, Monitoring and
+  Evaluation, and GIS mapping through the training and academic journey.
+  Passionate to use these skills to solve the challenging development sector.
 interests:
   - Hydrogeology
   - Monitoring
@@ -56,6 +56,6 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a dedicated and self-motivated Hydrogeologist and evaluation practitioner in the humanitarian and development sector. Experienced in climate change impact/vulnerability/risk assessment; adaptation and resilience research in water, sanitation, and climate change in South Asia. By training, I am a hydrogeologist while I have advanced training in governance, M&E, water resources, and environmental management. I am actively pursuing a challenging key position as a Hydrology Lead in development sector to take my career to the next level and expand my experience. My career interest is to contribute to sustainable global development especially in Bangladesh and other South Asian countries. 
+I am a dedicated and self-motivated Hydrogeologist, Data Analytics and evaluation practitioner in the humanitarian and development sector. Experienced in climate change impact/vulnerability/risk assessment; adaptation and resilience research in water and climate change in South Asia. Skilled in designing and developing surveys, collecting, digitalizing, and processing various types of qualitative and quantitative data i.e. hydrogeological, environmental, and geospatial data with over 6 years of experience in govt. and I/NGO such as DASCOH, SRC, Water Relief, and Ministry of Land, Bangladesh. By training, I am a hydrogeologist while I have advanced training in M&E, Data Analytics and GIS. I am actively pursuing a challenging key position as Data Scientist/ M&E Lead in development sector to take my career to the next level and expand my experience. My career interest is to contribute to sustainable global development worldwide. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}
