@@ -7,9 +7,11 @@ bio: Experienced and skilled in data acquisition, processing, Monitoring and
   Passionate to use these skills to solve the challenging development sector.
 interests:
   - Hydrogeology
-  - Monitoring
-  - Evaluation & Learning (MEL)
+  - Monitoring & Evaluation
   - Data Science
+  - GIS
+  - Data Visualization
+  - Survey
 social:
   - icon: envelope
     icon_pack: fas
