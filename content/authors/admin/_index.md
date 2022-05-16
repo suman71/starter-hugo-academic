@@ -16,6 +16,9 @@ interests:
   - Data Analysis
   - Data Visualization
   - Mapping
+  - Environment
+  - Climate Change
+  - Water Management
 social:
   - icon: envelope
     icon_pack: fas
