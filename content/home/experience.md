@@ -30,7 +30,6 @@ experience:
     date_start: '2021-04-11'
     date_end: ''
     description: |2-
-       
         * Conduct surveys; collects, processes, and analyzes data related to land, water, environment, agriculture, etc.
         * Digitize maps, prepare geodatabase, monitor data, Remote Sensing analyses
         * Prepare GIS-based maps, analyze, and report.
@@ -43,8 +42,7 @@ experience:
     location: Rajshahi
     date_start: '2015-06-14'
     date_end: '2021-04-08'
-    description: |2-
-    
+    description: 
         * Developed and supervised the web-based water resource mapping system and maintain the GIS database regularly for 52 Local Government Institutions (LGIs).
         * Entered data in excel and analyzed.
         * Designed and conducted surveys (a total of 115 surveys including baseline/end-line, study, midterm, donor demand study, FGD, Monthly, trimestrial, quarterly, and annual surveys)
