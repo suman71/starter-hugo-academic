@@ -1,9 +1,9 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
+title: Slides 
+summary: একটি চমৎকার ফিচার
+authors: [Suman]
 tags: []
-categories: []
+categories: [Book]
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
