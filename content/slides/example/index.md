@@ -15,7 +15,7 @@ slides:
 
 # Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Wowchemy](#) | [Documentation](https://facebook.com/SumanGeo)
 
 ---
 
@@ -161,6 +161,6 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
+[Ask](https://suman.netlify.app)
 
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+[Documentation](#)
